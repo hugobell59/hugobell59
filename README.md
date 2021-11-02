@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hugobell59
 - 👀 I’m interested in programming Django
 - 🌱 I’m currently learning cookiecutter
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Catenian Membership Database
 - 📫 How to reach me ...
 
 <!---
